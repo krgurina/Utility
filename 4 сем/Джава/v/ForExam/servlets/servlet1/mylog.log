@@ -1,0 +1,46 @@
+2023-06-04 00:43:41 INFO  FilterDataLogger:22 - Info message
+2023-06-04 00:43:41 WARN  FilterDataLogger:23 - Warning message
+2023-06-04 00:43:41 ERROR FilterDataLogger:24 - Error message
+2023-06-04 00:43:43 INFO  FilterDataLogger:22 - Info message
+2023-06-04 00:43:43 WARN  FilterDataLogger:23 - Warning message
+2023-06-04 00:43:43 ERROR FilterDataLogger:24 - Error message
+2023-06-04 00:43:46 INFO  FilterDataLogger:22 - Info message
+2023-06-04 00:43:46 WARN  FilterDataLogger:23 - Warning message
+2023-06-04 00:43:46 ERROR FilterDataLogger:24 - Error message
+2023-06-04 00:44:31 INFO  FilterDataLogger:22 - Info message
+2023-06-04 00:44:31 WARN  FilterDataLogger:23 - Warning message
+2023-06-04 00:44:31 ERROR FilterDataLogger:24 - Error message
+2023-06-04 00:44:33 INFO  FilterDataLogger:22 - Info message
+2023-06-04 00:44:33 WARN  FilterDataLogger:23 - Warning message
+2023-06-04 00:44:33 ERROR FilterDataLogger:24 - Error message
+2023-06-04 00:44:35 INFO  FilterDataLogger:22 - Info message
+2023-06-04 00:44:35 WARN  FilterDataLogger:23 - Warning message
+2023-06-04 00:44:35 ERROR FilterDataLogger:24 - Error message
+2023-06-04 01:27:45 INFO  FilterDataLogger:22 - port = 8080
+loacalru_RU
+2023-06-04 01:27:47 INFO  FilterDataLogger:22 - port = 8080
+loacalru_RU
+2023-06-04 01:27:50 INFO  FilterDataLogger:22 - port = 8080
+loacalru_RU
+2023-06-04 01:28:09 INFO  FilterDataLogger:22 - port = 8080
+loacalru_RU
+2023-06-04 01:32:53 INFO  FilterDataLogger:22 - port = 8080
+loacalru_RU
+2023-06-04 01:32:55 INFO  FilterDataLogger:22 - port = 8080
+loacalru_RU
+2023-06-04 01:58:10 INFO  FilterDataLogger:18 - port = 8080
+loacalru_RU
+2023-06-04 01:58:12 INFO  FilterDataLogger:18 - port = 8080
+loacalru_RU
+2023-06-04 01:58:15 INFO  FilterDataLogger:18 - port = 8080
+loacalru_RU
+2023-06-04 01:58:25 INFO  FilterDataLogger:18 - port = 8080
+loacalru_RU
+2023-06-04 01:58:29 INFO  FilterDataLogger:18 - port = 8080
+loacalru_RU
+2023-06-04 01:58:39 INFO  FilterDataLogger:18 - port = 8080
+loacalru_RU
+2023-06-04 01:58:42 INFO  FilterDataLogger:18 - port = 8080
+loacalru_RU
+2023-06-04 01:58:45 INFO  FilterDataLogger:18 - port = 8080
+loacalru_RU

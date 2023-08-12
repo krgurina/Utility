@@ -1,0 +1,20 @@
+﻿Сборка начата 14.06.2022 3:36:58.
+Уровень детализации журнала: Normal.     1>Проект "F:\экзы\кпо\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\ConsoleA.eabb56a3.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt ConsoleApplication1.cpp
+         ConsoleApplication1.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"F:\экзы\кпо\ConsoleApplication1\Debug\ConsoleApplication1.exe" /INCREMENTAL /ILK:"Debug\ConsoleApplication1.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\экзы\кпо\ConsoleApplication1\Debug\ConsoleApplication1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\экзы\кпо\ConsoleApplication1\Debug\ConsoleApplication1.lib" /MACHINE:X86 Debug\ConsoleApplication1.obj
+         ConsoleApplication1.vcxproj -> F:\экзы\кпо\ConsoleApplication1\Debug\ConsoleApplication1.exe
+       FinalizeBuildStatus:
+         Файл "Debug\ConsoleA.eabb56a3.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\ConsoleA.eabb56a3.tlog\ConsoleApplication1.lastbuildstate".
+     1>Сборка проекта "F:\экзы\кпо\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.96
